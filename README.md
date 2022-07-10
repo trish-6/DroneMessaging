@@ -4,7 +4,7 @@
 * Class: CSE 5462 SP22
 
 ## Overview
-Lab 10 includes a single client-server combined program which communicates via
+Includes a single client-server combined program which communicates via
 datagram (UDP) sockets. Messages can be entered into stdin, which are 
 then sent to the IP/port identities specified in `config.txt`. The stdin messages
 entries are concatenated with other parameters like so:
